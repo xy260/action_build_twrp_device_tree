@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       IMG_URL:    
-        description: 'https://218-60-174-250.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-46/139c6dc1/1843177390-0/139c6dc1a5874e8930a35b6152a2742e/c-m72?v=5&t=1738502365&s=17385023658fcd3cd6ce83b1ab87efb07313503e3c&r=QRGX77&bzc=2&bzs=313831333430313533343a37333531323437323a33333535343433323a30&filename=recovery.img&x-mf-biz-cid=d5d83539-b433-4800-8d0e-7ecc7bb99f3d-5baabb&auto_redirect=0&cache_type=1&xmfcid=38cabea7-5966-4e5a-9055-7402ec1900d7-1-50111d3b1'
+        description: 'IMG_URL'
         required: true
         default: ''
 
