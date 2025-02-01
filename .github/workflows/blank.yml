@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       IMG_URL:    
-        description: 'IMG_URL'
+        description: 'https://media-hlhn-fy-person.hl3oss.ctyunxs.cn/PERSONCLOUD/9660af9b-67a0-4a4c-b86c-470674d5ecbf.img?x-amz-CLIENTTYPEIN=WEB&AWSAccessKeyId=g6jU1T3TkAbPKf5ouH5d&x-amz-userLevel=0&x-amz-limitrate=51200&x-amz-UID=300001280874849&response-content-disposition=attachment%3Bfilename%3D%22recovery.img%22%3Bfilename*%3DUTF-8%27%27recovery.img&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&Signature=uoW75xOOELvDDqCLdjvk8f%2BAQo8%3D&x-amz-SHID=12383114643420&Expires=1738414477&x-amz-FSIZE=33554432&x-amz-UFID=423621178248853368'
         required: true
         default: ''
 
